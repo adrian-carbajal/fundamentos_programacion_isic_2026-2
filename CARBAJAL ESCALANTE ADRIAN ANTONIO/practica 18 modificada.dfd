@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+i
+1
+1
+4
+1
+54
+'Ingresa la temperatura (°c) dentro de los parametros'
+5
+1
+11
+temperatura
+9
+1
+43
+temperatura < -50.0 AND temperatura > 100.0
+4
+1
+49
+'temperatura fuera de rango. ingresa nuevamente:'
+5
+1
+11
+temperatura
+11
+6
+2
+10
+arreglo(i)
+11
+temperatura
+1
+i
+5
+i + 1
+4
+1
+24
+'Dato valido almacenado'
+1
